@@ -6,7 +6,7 @@
 ## Introduction:
 
 <p align="center">
-  <img src="https://github.com/dev-venkateshnagumantri/cars_world-gitproject/blob/master/website%20images/Intro.png" >
+  <img src="https://github.com/gaurav9808/carwebsite/blob/main/intro.png" >
 </p>
 
 - Car Zone is a website which integrates both car buyers and sellers on one platform.
@@ -14,7 +14,7 @@
 - The objective is to interact with the user and if he/she is a buyer he/she will navigate to the cars section and explore cars present. if he/she is a seller, still navigate to the cars section and explore the cars to understand the marketing of cars. Any user who wants to sell car can contact to admin by filling the form present in the contacts page.
 
 <p align="center">
-  <img src="https://github.com/dev-venkateshnagumantri/cars_world-gitproject/blob/master/website%20images/Intro2.png" >
+  <img src="https://github.com/gaurav9808/carwebsite/blob/main/intro2.png" >
 </p>
 
 - Any user who wants to sell car can contact the admin by filling the form present in the contacts page. any user who wishes to buy car can inquire about the car using inquiry form present for each car.
@@ -26,9 +26,6 @@
 - you can see some of the website pictures in the [website images](https://github.com/dev-venkateshnagumantri/cars_world-gitproject/tree/master/website%20images) section.
 
 ## About:
-<p align="center">
-  <img src="https://github.com/dev-venkateshnagumantri/cars_world-gitproject/blob/master/website%20images/about%20page.png">
-</p>
 
 This CarZone website is an idea of me where i went through building of this website from scratch by using HTML, CSS, JavaScript in Frontend and Django, PostgreSQL in Backend. The designing of this website took 6 months of time in total.
 
@@ -43,11 +40,11 @@ pip install -r requirements.txt
 ## Execution:
 -	Clone this repository using
 ```
-git clone https://github.com/dev-venkateshnagumantri/cars_world-gitproject
+git clone https://github.com/gaurav9808/carwebsite
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
--	Now run the [manage.py](https://github.com/dev-venkateshnagumantri/cars_world-gitproject/blob/master/manage.py) file directly in your Terminal using
+-	Now run the [manage.py](https://github.com/gaurav9808/carwebsite/blob/master/manage.py) file directly in your Terminal using
 ```
 python manage.py runserver 
 ```
@@ -57,14 +54,14 @@ Then, open your browser and type localhost:8000 or 127.0.0.1:8000
 
 ## Feedback:
 
-if you have any feedback do reach me at mail venkateshnagumantri01@gmail.com **OR** at [Linkedin](https://www.linkedin.com/in/venkateshnagumantri)
+if you have any feedback do reach me at mail gauravthakur.gt76gt@gmail.com **OR** at [Linkedin](https://www.linkedin.com/in/gaurav-singh-06aa801a4/)
 
 ## License:
 
 [MIT License](License)
 
 
-<p align='center'><b>Made with ❤ by Venkatesh Nagumantri</b></p>
+<p align='center'><b>Made with ❤ by Gaurav Kumar Singh</b></p>
 
 
  
